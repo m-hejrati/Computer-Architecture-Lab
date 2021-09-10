@@ -1,0 +1,8 @@
+vhdl work "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/xor_gate.vhd"
+vhdl work "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/and_gate.vhd"
+vhdl work "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/or_gate.vhd"
+vhdl work "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/half_adder.vhd"
+vhdl work "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/full_adder.vhd"
+vhdl work "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/ripple_adder.vhd"
+vhdl work "array_multiplier.vhd"
+vhdl work "array_multiplier_testbech.vhd"

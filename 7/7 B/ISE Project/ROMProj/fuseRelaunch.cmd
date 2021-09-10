@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/rom/ROMProj/ROM_tb_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/rom/ROMProj/ROM_tb_beh.prj" "work.ROM_tb" 

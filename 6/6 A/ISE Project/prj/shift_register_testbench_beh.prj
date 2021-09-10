@@ -1,0 +1,2 @@
+vhdl work "shift_register.vhd"
+vhdl work "shift_register_testbench.vhd"

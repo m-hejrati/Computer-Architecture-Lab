@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/CAM/CAM/CAM_tb_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/CAM/CAM/CAM_tb_beh.prj" "work.CAM_tb" 

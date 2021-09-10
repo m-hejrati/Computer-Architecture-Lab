@@ -1,0 +1,31 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier_testbech_isim_beh.exe -prj C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier_testbech_beh.prj work.array_multiplier_testbech 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/xor_gate.vhd" into library work
+Parsing VHDL file "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/and_gate.vhd" into library work
+Parsing VHDL file "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/or_gate.vhd" into library work
+Parsing VHDL file "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/half_adder.vhd" into library work
+Parsing VHDL file "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/full_adder.vhd" into library work
+Parsing VHDL file "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/ripple_adder.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier_testbech.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture gatelevel of entity xor_gate [xor_gate_default]
+Compiling architecture gatelevel of entity and_gate [and_gate_default]
+Compiling architecture structure of entity half_adder [half_adder_default]
+Compiling architecture gatelevel of entity or_gate [or_gate_default]
+Compiling architecture structure of entity full_adder [full_adder_default]
+Compiling architecture behavioral of entity ripple_adder [ripple_adder_default]
+Compiling architecture behavioral of entity array_multiplier [array_multiplier_default]
+Compiling architecture behavior of entity array_multiplier_testbech
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 17 VHDL Units
+Built simulation executable C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier_testbech_isim_beh.exe
+Fuse Memory Usage: 30344 KB
+Fuse CPU Usage: 796 ms

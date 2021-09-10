@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/prj/Multiplier/fourbit_multiplier_testbench_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/prj/Multiplier/fourbit_multiplier_testbench_beh.prj" "work.fourbit_multiplier_testbench" 

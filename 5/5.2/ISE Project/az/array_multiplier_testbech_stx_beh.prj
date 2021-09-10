@@ -1,0 +1,8 @@
+vhdl isim_temp "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/xor_gate.vhd"
+vhdl isim_temp "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/and_gate.vhd"
+vhdl isim_temp "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/or_gate.vhd"
+vhdl isim_temp "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/half_adder.vhd"
+vhdl isim_temp "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/full_adder.vhd"
+vhdl isim_temp "D:/Lesson & Work/University/CE/Computer Architecture/Lab/5.2/Code/ripple_adder.vhd"
+vhdl isim_temp "array_multiplier.vhd"
+vhdl isim_temp "array_multiplier_testbech.vhd"

@@ -1,0 +1,10 @@
+Command line:
+   array_multiplier_testbech_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57325
+
+Mon Sep 07 15:53:51 2020
+
+
+ Elaboration Time: 1.15625 sec

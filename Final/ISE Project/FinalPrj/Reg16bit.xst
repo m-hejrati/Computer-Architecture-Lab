@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/xst"
+elaborate
+-ifn Reg16bit.prj
+-ifmt mixed

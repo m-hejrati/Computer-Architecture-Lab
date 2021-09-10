@@ -1,0 +1,27 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity ripple_adder_testbench is
+end entity ripple_adder_testbench;
+
+architecture test of ripple_adder_testbench is
+component ripple_adder is
+	port(
+		A : in STD_LOGIC_VECTOR (3 downto 0);
+		B : in STD_LOGIC_VECTOR (3 downto 0);
+		Cin : in STD_LOGIC;
+		S : out STD_LOGIC_VECTOR (3 downto 0);
+		Cout : out STD_LOGIC
+	);
+end component;
+
+	signal a, b: STD_LOGIC_VECTOR(3 downto 0) := "0000";
+	signal cin: STD_LOGIC := '0';
+	signal s: STD_LOGIC_VECTOR(3 downto 0) := "0000";
+	signal cout: STD_LOGIC := '0';
+
+	begin
+		RA : ripple_adder port map ( A => a, B => b, Cin => cin, S => s, Cout => cout);
+		a <= "0110", "0011" after 100 ns, "0110" after 300 ns, "0101" after 500 ns, "1111" after 700 ns;
+		b <= "1100", "1000" after 200 ns, "0111" after 400 ns, "1010" after 600 ns, "1111" after 800 ns;
+end test;

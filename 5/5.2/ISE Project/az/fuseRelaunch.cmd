@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier_testbech_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/code 5.2/az/array_multiplier_testbech_beh.prj" "work.array_multiplier_testbech" 

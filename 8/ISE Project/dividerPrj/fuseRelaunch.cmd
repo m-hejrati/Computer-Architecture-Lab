@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/div/dividerPrj/divider_testbench_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/div/dividerPrj/divider_testbench_beh.prj" "work.divider_testbench" 

@@ -1,0 +1,61 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/basic_computer_tb_isim_beh.exe -prj C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/basic_computer_tb_beh.prj work.basic_computer_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/xor_gate.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/and_gate.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/or_gate.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/half_adder.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/full_adder.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/ripple_adder.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/incrementor_8bit.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/incrementor_4bit.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/incrementor_16bit.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/sequence_counter_4bit.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/RAM_Dual_port.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/PC_register.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/mux8to1.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/IR_register.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/encoder_3to8.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/DR_register.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/Decoder_4to16.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/Decoder_3to8.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/AR_register.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/AC_register.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/Basic_Computer.vhd" into library work
+Parsing VHDL file "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/Basic_Computer_Testbench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture gatelevel of entity xor_gate [xor_gate_default]
+Compiling architecture gatelevel of entity and_gate [and_gate_default]
+Compiling architecture structure of entity half_adder [half_adder_default]
+Compiling architecture structure of entity incrementor_4bit [incrementor_4bit_default]
+Compiling architecture behavioral of entity sequence_counter_4bit [sequence_counter_4bit_default]
+Compiling architecture behav of entity Decoder_4to16 [decoder_4to16_default]
+Compiling architecture structure of entity incrementor_8bit [incrementor_8bit_default]
+Compiling architecture behavioral of entity AR_register [ar_register_default]
+Compiling architecture behavioral of entity PC_register [pc_register_default]
+Compiling architecture structure of entity incrementor_16bit [incrementor_16bit_default]
+Compiling architecture behavioral of entity DR_register [dr_register_default]
+Compiling architecture behavioral of entity AC_register [ac_register_default]
+Compiling architecture behavioral of entity IR_register [ir_register_default]
+Compiling architecture behav of entity Decoder_3to8 [decoder_3to8_default]
+Compiling architecture gatelevel of entity or_gate [or_gate_default]
+Compiling architecture structure of entity full_adder [full_adder_default]
+Compiling architecture behavioral of entity ripple_adder [ripple_adder_default]
+Compiling architecture instance of entity ALU [alu_default]
+Compiling architecture behav of entity encoder_3to8 [encoder_3to8_default]
+Compiling architecture behav of entity mux_8to1 [mux_8to1_default]
+Compiling architecture behavioral of entity RAM_Dual_port [\RAM_Dual_port(16,8)\]
+Compiling architecture dataflow of entity basic_computer [basic_computer_default]
+Compiling architecture behavior of entity basic_computer_tb
+Time Resolution for simulation is 1ps.
+Compiled 48 VHDL Units
+Built simulation executable C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/basic_computer_tb_isim_beh.exe
+Fuse Memory Usage: 37172 KB
+Fuse CPU Usage: 1234 ms

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/ram/RAMProj/RAM_tb_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/ram/RAMProj/RAM_tb_beh.prj" "work.RAM_tb" 

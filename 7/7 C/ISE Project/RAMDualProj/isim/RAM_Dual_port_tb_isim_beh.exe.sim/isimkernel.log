@@ -1,0 +1,28 @@
+Command line:
+   RAM_Dual_port_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58216
+
+Tue Sep 15 02:44:27 2020
+
+
+ Elaboration Time: 1.01563 sec
+
+ Current Memory Usage: 5163.19 Meg
+
+ Total Signals          : 15
+ Total Nets             : 80
+ Total Signal Drivers   : 8
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 7
+ Total Traceable Variables  : 17
+ Total Scalar Nets and Variables : 567
+
+ Total Simulation Time: 1.03125 sec
+
+ Current Memory Usage: 5477.77 Meg
+
+Tue Sep 15 02:45:02 2020
+

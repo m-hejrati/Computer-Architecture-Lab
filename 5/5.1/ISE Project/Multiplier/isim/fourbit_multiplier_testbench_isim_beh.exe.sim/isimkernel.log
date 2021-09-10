@@ -1,0 +1,28 @@
+Command line:
+   fourbit_multiplier_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50463
+
+Mon Sep 07 16:33:40 2020
+
+
+ Elaboration Time: 1.17188 sec
+
+ Current Memory Usage: 5179.7 Meg
+
+ Total Signals          : 385
+ Total Nets             : 90
+ Total Signal Drivers   : 80
+ Total Blocks           : 99
+ Total Primitive Blocks : 61
+ Total Processes        : 80
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 450
+
+ Total Simulation Time: 1.34375 sec
+
+ Current Memory Usage: 5022.41 Meg
+
+Mon Sep 07 16:35:37 2020
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/basic_computer_tb_isim_beh.exe" -prj "C:/Users/MASHADSERVICE/Desktop/FP/FinalPrj/basic_computer_tb_beh.prj" "work.basic_computer_tb" 
